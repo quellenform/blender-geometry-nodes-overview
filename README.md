@@ -12,7 +12,7 @@ Here you can find a complete list of *Geometry Nodes* available in different *Bl
 
 ## Attribute Nodes
 
-| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5 (α) |
+| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5+ |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Attribute Statistic | - | - | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/attribute/attribute_statistic.html "Attribute Statistic") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/attribute/attribute_statistic.html "Attribute Statistic") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/attribute/attribute_statistic.html "Attribute Statistic") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/attribute/attribute_statistic.html "Attribute Statistic") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/attribute/attribute_statistic.html "Attribute Statistic") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/attribute/attribute_statistic.html "Attribute Statistic") |
 | Blur Attribute | - | - | - | - | - | - | - | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/attribute/blur_attribute.html) |
@@ -57,7 +57,7 @@ Some nodes were completely replaced by other nodes after version *2.93* due to t
 
 ## Color Nodes
 
-| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5 (α) |
+| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5+ |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Color Ramp | [Yes](https://docs.blender.org/manual/en/2.92/modeling/geometry_nodes/color/color_ramp.html "Color Ramp") | [Yes](https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/color/color_ramp.html "Color Ramp") | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/color/color_ramp.html "Color Ramp") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/color/color_ramp.html "Color Ramp") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/color/color_ramp.html "Color Ramp") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/color/color_ramp.html "Color Ramp") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/color/color_ramp.html "Color Ramp") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/color/color_ramp.html "Color Ramp") |
 | Combine RGB | [Yes](https://docs.blender.org/manual/en/2.92/modeling/geometry_nodes/color/combine_rgb.html "Combine RGB") | [Yes](https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/color/combine_rgb.html "Combine RGB") | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/color/combine_rgb.html "Combine RGB") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/color/combine_rgb.html "Combine RGB") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/color/combine_rgb.html "Combine RGB") ⇲ | - | - | - |
@@ -72,7 +72,7 @@ Some nodes were completely replaced by other nodes after version *2.93* due to t
 
 ## Curve Nodes
 
-| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5 (α) |
+| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5+ |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Curve Length | - | - | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/curve/curve_length.html "Curve Length") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/curve/curve_length.html "Curve Length") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/curve/curve_length.html "Curve Length") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/curve/curve_length.html "Curve Length") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/curve/curve_length.html "Curve Length") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/curve/curve_length.html "Curve Length") |
 | Curve to Mesh | - | - | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/curve/curve_to_mesh.html "Curve to Mesh") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/curve/curve_to_mesh.html "Curve to Mesh") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/curve/curve_to_mesh.html "Curve to Mesh") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/curve/curve_to_mesh.html "Curve to Mesh") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/curve/curve_to_mesh.html "Curve to Mesh") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/curve/curve_to_mesh.html "Curve to Mesh") |
@@ -109,7 +109,7 @@ Some nodes were completely replaced by other nodes after version *2.93* due to t
 
 ## Curve Primitive Nodes
 
-| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5 (α) |
+| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5+ |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Arc | - | - | - | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/curve_primitives/arc.html "Arc") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/curve_primitives/arc.html "Arc") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/curve_primitives/arc.html "Arc") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/curve_primitives/arc.html "Arc") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/curve_primitives/arc.html "Arc") |
 | Bézier Segment | - | - | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/curve_primitives/bezier_segment.html "Bézier Segment") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/curve_primitives/bezier_segment.html "Bézier Segment") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/curve_primitives/bezier_segment.html "Bézier Segment") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/curve_primitives/bezier_segment.html "Bézier Segment") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/curve_primitives/bezier_segment.html "Bézier Segment") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/curve_primitives/bezier_segment.html "Bézier Segment") |
@@ -122,7 +122,7 @@ Some nodes were completely replaced by other nodes after version *2.93* due to t
 
 ## Curve Topology Nodes
 
-| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5 (α) |
+| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5+ |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Offset Point in Curve | - | - | - | - | - | - | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/curve_topology/offset_point_in_curve.html "Offset Point in Curve") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/curve_topology/offset_point_in_curve.html "Offset Point in Curve") |
 | Curve of Point | - | - | - | - | - | - | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/curve_topology/curve_of_point.html "Curve of Point") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/curve_topology/curve_of_point.html "Curve of Point") |
@@ -130,7 +130,7 @@ Some nodes were completely replaced by other nodes after version *2.93* due to t
 
 ## Geometry Nodes
 
-| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5 (α) |
+| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5+ |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Bounding Box | - | [Yes](https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/geometry/bounding_box.html "Bounding Box") | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/geometry/bounding_box.html "Bounding Box") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/geometry/bounding_box.html "Bounding Box") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/geometry/bounding_box.html "Bounding Box") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/geometry/bounding_box.html "Bounding Box") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/geometry/bounding_box.html "Bounding Box") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/bounding_box.html "Bounding Box") |
 | Convex Hull | - | - | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/geometry/convex_hull.html "Convex Hull") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/geometry/convex_hull.html "Convex Hull") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/geometry/convex_hull.html "Convex Hull") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/geometry/convex_hull.html "Convex Hull") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/geometry/convex_hull.html "Convex Hull") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/convex_hull.html "Convex Hull") |
@@ -151,7 +151,7 @@ Some nodes were completely replaced by other nodes after version *2.93* due to t
 
 ## Input Nodes
 
-| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5 (α) |
+| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5+ |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Boolean | - | - | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/input/boolean.html "Boolean") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/input/boolean.html "Boolean") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/input/boolean.html "Boolean") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/input/boolean.html "Boolean") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/input/boolean.html "Boolean") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/input/boolean.html "Boolean") |
 | Collection Info | - | [Yes](https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/input/collection_info.html "Collection Info") | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/input/collection_info.html "Collection Info") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/input/collection_info.html "Collection Info") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/input/collection_info.html "Collection Info") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/input/collection_info.html "Collection Info") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/input/collection_info.html "Collection Info") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/input/collection_info.html "Collection Info") |
@@ -182,7 +182,7 @@ Some nodes were completely replaced by other nodes after version *2.93* due to t
 
 ## Instances Nodes
 
-| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5 (α) |
+| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5+ |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Instance on Points | - | - | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/instances/instance_on_points.html "Instance on Points") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/instances/instance_on_points.html "Instance on Points") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/instances/instance_on_points.html "Instance on Points") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/instances/instance_on_points.html "Instance on Points") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/instances/instance_on_points.html "Instance on Points") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/instances/instance_on_points.html "Instance on Points") |
 | Instances to Points | - | - | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/instances/instances_to_points.html "Instances to Points") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/instances/instances_to_points.html "Instances to Points") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/instances/instances_to_points.html "Instances to Points") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/instances/instances_to_points.html "Instances to Points") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/instances/instances_to_points.html "Instances to Points") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/instances/instances_to_points.html "Instances to Points") |
@@ -195,7 +195,7 @@ Some nodes were completely replaced by other nodes after version *2.93* due to t
 
 ## Material Nodes
 
-| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5 (α) |
+| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5+ |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Replace Material | - | - | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/material/replace_material.html "Replace Material") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/material/replace_material.html "Replace Material") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/material/replace_material.html "Replace Material") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/material/replace_material.html "Replace Material") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/material/replace_material.html "Replace Material") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/material/replace_material.html "Replace Material") |
 | Material Index | - | - | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/material/material_index.html "Material Index") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/material/material_index.html "Material Index") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/material/material_index.html "Material Index") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/material/material_index.html "Material Index") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/material/material_index.html "Material Index") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/material/material_index.html "Material Index") |
@@ -205,7 +205,7 @@ Some nodes were completely replaced by other nodes after version *2.93* due to t
 
 ## Mesh Nodes
 
-| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5 (α) |
+| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5+ |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Dual Mesh | - | - | - | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/mesh/dual_mesh.html "Dual Mesh") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/mesh/dual_mesh.html "Dual Mesh") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/mesh/dual_mesh.html "Dual Mesh") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/mesh/dual_mesh.html "Dual Mesh") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/mesh/dual_mesh.html "Dual Mesh") |
 | Edge Paths to Curves | - | - | - | - | - | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/mesh/edge_paths_to_curves.html "Edge Paths to Curves") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/mesh/edge_paths_to_curves.html "Edge Paths to Curves") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/mesh/edge_paths_to_curves.html "Edge Paths to Curves") |
@@ -242,7 +242,7 @@ Some nodes were completely replaced by other nodes after version *2.93* due to t
 
 ## Mesh Primitive Nodes
 
-| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5 (α) |
+| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5+ |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Cone | - | [Yes](https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/mesh_primitives/cone.html "Cone") | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/mesh_primitives/cone.html "Cone") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/mesh_primitives/cone.html "Cone") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/mesh_primitives/cone.html "Cone") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/mesh_primitives/cone.html "Cone") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/mesh_primitives/cone.html "Cone") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/mesh_primitives/cone.html "Cone") |
 | Cube | - | [Yes](https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/mesh_primitives/cube.html "Cube") | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/mesh_primitives/cube.html "Cube") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/mesh_primitives/cube.html "Cube") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/mesh_primitives/cube.html "Cube") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/mesh_primitives/cube.html "Cube") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/mesh_primitives/cube.html "Cube") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/mesh_primitives/cube.html "Cube") |
@@ -257,7 +257,7 @@ Some nodes were completely replaced by other nodes after version *2.93* due to t
 
 ## Mesh Topology Nodes
 
-| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5 (α) |
+| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5+ |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Corners of Face | - | - | - | - | - | - | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/mesh_topology/corners_of_face.html "Corners of Face") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/mesh_topology/corners_of_face.html "Corners of Face") |
 | Corners of Vertex | - | - | - | - | - | - | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/mesh_topology/corners_of_vertex.html "Corners of Vertex") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/mesh_topology/corners_of_vertex.html "Corners of Vertex") |
@@ -269,13 +269,13 @@ Some nodes were completely replaced by other nodes after version *2.93* due to t
 
 ## Output Nodes
 
-| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5 (α) |
+| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5+ |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Viewer | - | - | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/output/viewer.html "Viewer") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/output/viewer.html "Viewer") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/output/viewer.html "Viewer") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/output/viewer.html "Viewer") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/output/viewer.html "Viewer") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/output/viewer.html "Viewer") |
 
 ## Point Nodes
 
-| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5 (α) |
+| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5+ |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Distribute Points in Volume | - | - | - | - | - | - | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/point/distribute_points_in_volume.html "Distribute Points in Volume") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/point/distribute_points_in_volume.html "Distribute Points in Volume") |
 | Point Distribute | [Yes](https://docs.blender.org/manual/en/2.92/modeling/geometry_nodes/point/point_distribute.html "Point Distribute") | [Yes](https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/point/point_distribute.html "Point Distribute") ⇲ | - | - | - | - | - | - |
@@ -301,7 +301,7 @@ Some nodes were completely replaced by other nodes after version *2.93*:
 
 ## Text Nodes
 
-| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5 (α) |
+| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5+ |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Join Strings | - | - | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/text/join_strings.html "Join Strings") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/text/join_strings.html "Join Strings") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/text/join_strings.html "Join Strings") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/text/join_strings.html "Join Strings") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/text/join_strings.html "Join Strings") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/text/join_strings.html "Join Strings") |
 | Replace String | - | - | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/text/replace_string.html "Replace String") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/text/replace_string.html "Replace String") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/text/replace_string.html "Replace String") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/text/replace_string.html "Replace String") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/text/replace_string.html "Replace String") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/text/replace_string.html "Replace String") |
@@ -313,7 +313,7 @@ Some nodes were completely replaced by other nodes after version *2.93*:
 
 ## Texture Nodes
 
-| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5 (α) |
+| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5+ |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Brick Texture | - | - | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/texture/brick.html "Brick Texture") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/texture/brick.html "Brick Texture") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/texture/brick.html "Brick Texture") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/texture/brick.html "Brick Texture") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/texture/brick.html "Brick Texture") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/texture/brick.html "Brick Texture") |
 | Checker Texture | - | - | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/texture/checker.html "Checker Texture") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/texture/checker.html "Checker Texture") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/texture/checker.html "Checker Texture") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/texture/checker.html "Checker Texture") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/texture/checker.html "Checker Texture") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/texture/checker.html "Checker Texture") |
@@ -331,7 +331,7 @@ Some nodes were completely replaced by other nodes after version *2.93*:
 
 ## Utilities Nodes
 
-| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5 (α) |
+| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5+ |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Accumulate Field | - | - | - | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/utilities/accumulate_field.html "Accumulate Field") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/utilities/accumulate_field.html "Accumulate Field") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/utilities/accumulate_field.html "Accumulate Field") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/utilities/accumulate_field.html "Accumulate Field") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/utilities/accumulate_field.html "Accumulate Field") |
 | Align Euler to Vector | - | - | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/utilities/align_euler_to_vector.html "Align Euler to Vector") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/utilities/align_euler_to_vector.html "Align Euler to Vector") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/utilities/align_euler_to_vector.html "Align Euler to Vector") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/utilities/align_euler_to_vector.html "Align Euler to Vector") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/utilities/align_euler_to_vector.html "Align Euler to Vector") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/utilities/align_euler_to_vector.html "Align Euler to Vector") |
@@ -353,7 +353,7 @@ Some nodes were completely replaced by other nodes after version *2.93*:
 
 ## Vector Nodes
 
-| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5 (α) |
+| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5+ |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Combine XYZ | [Yes](https://docs.blender.org/manual/en/2.92/modeling/geometry_nodes/vector/combine_xyz.html "Combine XYZ") | [Yes](https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/vector/combine_xyz.html "Combine XYZ") | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/vector/combine_xyz.html "Combine XYZ") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/vector/combine_xyz.html "Combine XYZ") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/vector/combine_xyz.html "Combine XYZ") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/vector/combine_xyz.html "Combine XYZ") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/vector/combine_xyz.html "Combine XYZ") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/vector/combine_xyz.html "Combine XYZ") |
 | Separate XYZ | [Yes](https://docs.blender.org/manual/en/2.92/modeling/geometry_nodes/vector/separate_xyz.html "Separate XYZ") | [Yes](https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/vector/separate_xyz.html "Separate XYZ") | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/vector/separate_xyz.html "Separate XYZ") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/vector/separate_xyz.html "Separate XYZ") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/vector/separate_xyz.html "Separate XYZ") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/vector/separate_xyz.html "Separate XYZ") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/vector/separate_xyz.html "Separate XYZ") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/vector/separate_xyz.html "Separate XYZ") |
@@ -363,7 +363,7 @@ Some nodes were completely replaced by other nodes after version *2.93*:
 
 ## Volume Nodes
 
-| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5 (α) |
+| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5+ |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Volume Cube | - | - | - | - | - | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/volume/volume_cube.html "Volume Cube") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/volume/volume_cube.html "Volume Cube") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/volume/volume_cube.html "Volume Cube") |
 | Volume to Mesh | - | [Yes](https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/volume/volume_to_mesh.html "Volume to Mesh") | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/volume/volume_to_mesh.html "Volume to Mesh") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/volume/volume_to_mesh.html "Volume to Mesh") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/volume/volume_to_mesh.html "Volume to Mesh") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/volume/volume_to_mesh.html "Volume to Mesh") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/volume/volume_to_mesh.html "Volume to Mesh") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/volume/volume_to_mesh.html "Volume to Mesh") |
@@ -372,14 +372,14 @@ Some nodes were completely replaced by other nodes after version *2.93*:
 
 ## UV Nodes
 
-| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5 (α) |
+| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5+ |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Pack UV Islands | - | - | - | - | - | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/uv/pack_uv_islands.html "Pack UV Islands") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/uv/pack_uv_islands.html "Pack UV Islands") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/uv/pack_uv_islands.html "Pack UV Islands") |
 | UV Unwrap | - | - | - | - | - | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/uv/uv_unwrap.html "UV Unwrap") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/uv/uv_unwrap.html "UV Unwrap") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/uv/uv_unwrap.html "UV Unwrap") |
 
 ## Group Nodes
 
-| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5 (α) |
+| | 2.92 | 2.93 LTS | 3.0 | 3.1 | 3.2 | 3.3 LTS | 3.4 | 3.5+ |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Group Input | - | [Yes](https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/group.html#group-input "Group Input") | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/group.html#group-input "Group Input") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/group.html#group-input "Group Input") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/group.html#group-input "Group Input") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/group.html#group-input "Group Input") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/group.html#group-input "Group Input") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/group.html#group-input "Group Input") |
 | Group Output | - | [Yes](https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/group.html#group-output "Group Output") | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/group.html#group-output "Group Output") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/group.html#group-output "Group Output") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/group.html#group-output "Group Output") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/group.html#group-output "Group Output") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/group.html#group-output "Group Output") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/group.html#group-output "Group Output") |
