@@ -389,6 +389,43 @@ Some nodes were completely replaced by other nodes after version *2.93*:
 | Group Input | - | [Yes](https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/group.html#group-input "Group Input") | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/group.html#group-input "Group Input") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/group.html#group-input "Group Input") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/group.html#group-input "Group Input") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/group.html#group-input "Group Input") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/group.html#group-input "Group Input") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/group.html#group-input "Group Input") |
 | Group Output | - | [Yes](https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/group.html#group-output "Group Output") | [Yes](https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/group.html#group-output "Group Output") | [Yes](https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/group.html#group-output "Group Output") | [Yes](https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/group.html#group-output "Group Output") | [Yes](https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/group.html#group-output "Group Output") | [Yes](https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/group.html#group-output "Group Output") | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/group.html#group-output "Group Output") |
 
+## Hair Nodes
+
+|  | | 3.5+ |
+|:---|:---|:---:|
+| **Deformation:** | |
+| | Blend Hair Curves | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/deformation/blend_hair_curves.html "Blend Hair Curves") |
+| | Displace Hair Curves | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/deformation/displace_hair_curves.html "Displace Hair Curves") |
+| | Frizz Hair Curves | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/deformation/frizz_hair_curves.html "Frizz Hair Curves") |
+| | Hair Curves Noise | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/deformation/hair_curves_noise.html "Hair Curves Noise") |
+| | Roll Hair Curves | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/deformation/roll_hair_curves.html "Roll Hair Curves") |
+| | Rotate Hair Curves | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/deformation/rotate_hair_curves.html "Rotate Hair Curves") |
+| | Shrinkwrap Hair Curves | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/deformation/shrinkwrap_hair_curves.html "Shrinkwrap Hair Curves") |
+| | Smooth Hair Curves | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/deformation/smooth_hair_curves.html "Smooth Hair Curves") |
+| | Straighten Hair Curves | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/deformation/straighten_hair_curves.html "Straighten Hair Curves") |
+| | Trim Hair Curves | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/deformation/trim_hair_curves.html "Trim Hair Curves") |
+| **Generation:** | |
+| | Duplicate Hair Curves | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/generation/duplicate_hair_curves.html "Duplicate Hair Curves") |
+| | Generate Hair Curves | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/generation/generate_hair_curves.html "Generate Hair Curves") |
+| | Interpolate Hair Curves | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/generation/interpolate_hair_curves.html "Interpolate Hair Curves") |
+| **Guides:** | |
+| | Braid Hair Curves | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/guides/braid_hair_curves.html "Braid Hair Curves") |
+| | Clump Hair Curves | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/guides/clump_hair_curves.html "Clump Hair Curves") |
+| | Create Guide Index Map | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/guides/create_guide_index_map.html "Create Guide Index Map") |
+| | Curl Hair Curves | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/guides/curl_hair_curves.html "Curl Hair Curves") |
+| **Read:** | |
+| | Curve Info | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/read/curve_info.html "Curve Info") |
+| | Curve Root | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/read/curve_root.html " Curve Root") |
+| | Curve Segment | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/read/curve_segment.html "Curve Segment") |
+| | Curve Tip | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/read/curve_tip.html "Curve Tip") |
+| | Hair Attachment Info | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/read/hair_attachment_info.html "Hair Attachment Info") |
+| **Utility:** | |
+| | Attach Hair Curves to Surface | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/utility/attach_hair_curves_to_surface.html "Attach Hair Curves to Surface") |
+| | Redistribute Curve Points | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/utility/redistribute_curve_points.html "Redistribute Curve Points") |
+| | Restore Curve Segment Length | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/utility/restore_curve_segment_length.html "Restore Curve Segment Length") |
+| **Write:** | |
+| | Set Hair Curve Profile | [Yes](https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/hair/write/set_hair_curve_profile.html "Set Hair Curve Profile") |
+
 ---
 
 ## Addendum: Math Nodes
