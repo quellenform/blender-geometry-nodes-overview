@@ -401,7 +401,7 @@ So if you see a node that does not appear with its name in the above list, it is
 
 The operations available in [Vector Math](https://docs.blender.org/manual/en/latest/modeling/geometry_nodes/vector/vector_math.html) are:
 
-| | 2.92 | 2.93 LTS | >= 3.0 |
+| | 2.92 | 2.93 LTS | 3.0+ |
 |:---|:---:|:---:|:---:|
 | Add | Yes | Yes | Yes |
 | Subtract | Yes | Yes | Yes |
