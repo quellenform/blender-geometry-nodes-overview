@@ -1,5 +1,5 @@
 # Geometry Nodes Overview
-<sub>(Status as of January 13, 2023)</sub>
+<sub>(Status as of March 1, 2023)</sub>
 
 Here you can find a complete list of *Geometry Nodes* available in different *Blender* versions in tabular form.
 
