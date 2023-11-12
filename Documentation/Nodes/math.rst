@@ -3,7 +3,7 @@
 Math Nodes
 ==========
 
-Most mathematical operations hide behind the nodes `Math <bdoc-math>`_ and `Vector Math <bdoc-vector_math_>`_, which can
+Most mathematical operations hide behind the nodes `Math <bdoc-math_>`_ and `Vector Math <bdoc-vector_math_>`_, which can
 be found in the category **Utilities** and **Vector** respectively.
 
 So if you see a node that does not appear with its name in the above list, it is almost certainly one of these two nodes
