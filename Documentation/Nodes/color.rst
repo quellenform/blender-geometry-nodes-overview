@@ -23,4 +23,5 @@ Color Nodes
 | Separate Color | \-                          | \-                          | \-                         | \-                         | \-                           | `Yes <separate_color-3.3_>`_ | `Yes <separate_color-3.4_>`_ | `Yes <separate_color-3.5_>`_ | `Yes <separate_color-3.6_>`_ | `Yes <separate_color-4.0_>`_ |
 +----------------+-----------------------------+-----------------------------+----------------------------+----------------------------+------------------------------+------------------------------+------------------------------+------------------------------+------------------------------+------------------------------+
 
-\* The nodes `MixRGB` and `Mix Color` are referred to as "Mix" in the title of the node.
+\* The nodes `MixRGB` and `Mix Color` are referred to as "Mix" in the title of
+the node.

@@ -24,22 +24,29 @@ Attribute Nodes
 
 **Additional changes since version 3.4:**
 
-- The `Transfer Attribute` node has been removed and split into multiple more specific nodes:
-- The `Sample Index` node retrieves data from specific geometry elements by index.
-- The `Sample Nearest` node retrieves the indices from the closest geometry elements
-- The `Sample Nearest Surface` node interpolates a field input to the closest location on a mesh surface.
+* The `Transfer Attribute` node has been removed and split into multiple more
+  specific nodes:
+
+  * The `Sample Index` node retrieves data from specific geometry elements by
+    index.
+  * The `Sample Nearest` node retrieves the indices from the closest geometry
+    elements
+  * The `Sample Nearest Surface` node interpolates a field input to the closest
+    location on a mesh surface.
 
 .. note::
-    On that topic, check out this post explaining how to use the new nodes: `Where is Transfer attribute in 3.4? <bse-276088_>`_
+    On that topic, check out this post explaining how to use the new nodes:
+    `Where is Transfer attribute in 3.4? <bse-276088_>`_
 
 **Additional changes since version 3.5:**
 
-- The `Store Named Attribute` node can now store 2d vector attributes
+* The `Store Named Attribute` node can now store 2d vector attributes
 
 Addendum: Replaced Attribute Nodes
 ----------------------------------
 
-Some nodes were completely replaced by other nodes after version *2.93* due to the introduction of `Fields <fields_>`_:
+Some nodes were completely replaced by other nodes after version *2.93* due to
+the introduction of `Fields <fields_>`_:
 
 +--------------------------+--------------------------------------+-----------------------------------------+-------------------------------+
 |                          |                 2.92                 |                2.93 LTS                 |              3.x              |

@@ -49,8 +49,10 @@ Input Nodes
 | Random Float *  | `Yes <random_float-2.92_>`_ | `Yes <random_float-2.93_>`_ *  | \-                            | \-                            | \-                            | \-                            | \-                            | \-                            | \-                            | \-                            |
 +-----------------+-----------------------------+--------------------------------+-------------------------------+-------------------------------+-------------------------------+-------------------------------+-------------------------------+-------------------------------+-------------------------------+-------------------------------+
 
-\* The node `Random Float` has been renamed to `Random Value` and has been moved to the category "Utilities" since version 3.0.
+\* The node `Random Float` has been renamed to `Random Value` and has been moved
+to the category "Utilities" since version 3.0.
 
 **Additional changes since version 3.5:**
 
-- The `Named Attribute` input node now has an "Exists" output to tell whether the attribute exists
+* The `Named Attribute` input node now has an "Exists" output to tell whether
+  the attribute exists

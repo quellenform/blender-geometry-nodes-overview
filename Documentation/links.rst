@@ -473,7 +473,7 @@
 
 ..
    _Curve Topology Nodes
-   
+
 .. _offset_point_in_curve-3.4: https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/curve_topology/offset_point_in_curve.html
 .. _offset_point_in_curve-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/curve/topology/offset_point_in_curve.html
 .. _offset_point_in_curve-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/curve/topology/offset_point_in_curve.html
@@ -1220,7 +1220,7 @@
 .. _icosphere-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/mesh_primitives/icosphere.html
 .. _icosphere-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/mesh_primitives/icosphere.html
 
-.. _circle-2.93: https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/mesh_primitives/circle.html ⇲, -, -, -, -, -, -
+.. _circle-2.93: https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/mesh_primitives/circle.html
 
 .. _mesh_circle-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/mesh_primitives/mesh_circle.html
 .. _mesh_circle-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/mesh_primitives/mesh_circle.html
@@ -1231,7 +1231,7 @@
 .. _mesh_circle-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/mesh_primitives/mesh_circle.html
 .. _mesh_circle-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/mesh_primitives/mesh_circle.html
 
-.. _line-2.93: https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/mesh_primitives/line.html ⇲, -, -, -, -, -, -
+.. _line-2.93: https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/mesh_primitives/line.html
 
 .. _mesh_line-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/mesh_primitives/mesh_line.html
 .. _mesh_line-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/mesh_primitives/mesh_line.html
