@@ -1,0 +1,14 @@
+/.editorconfig export-ignore
+/.gitattributes export-ignore
+/.github export-ignore
+/.gitignore export-ignore
+/.vscode export-ignore
+/build/ export-ignore
+
+# Enforce checkout with linux lf consistent over all platforms
+*.html text eol=lf
+*.md text eol=lf
+*.rst text eol=lf
+*.sh text eol=lf
+*.svg text eol=lf
+*.txt text eol=lf
