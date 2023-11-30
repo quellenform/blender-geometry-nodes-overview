@@ -1892,6 +1892,15 @@
 .. _set_hair_curve_profile-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/hair/write/set_hair_curve_profile.html
 
 ..
+   _Node-Based Tools
+
+.. _tools-3d-cursor-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/input/scene/3d_cursor.html
+.. _tools-face-set-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/mesh/read/face_set.html
+.. _tools-selection-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/read/selection.html
+.. _tools-set-face-set-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/mesh/write/set_face_set.html
+.. _tools-set-selection-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/write/set_selection.html
+
+..
    _Misc
 
 .. _bdoc-math: https://docs.blender.org/manual/en/latest/modeling/geometry_nodes/utilities/math.html

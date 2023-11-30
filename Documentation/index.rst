@@ -39,6 +39,7 @@ Here you can find a complete list of *Geometry Nodes* available in different
 .. include:: Nodes/uv.rst
 .. include:: Nodes/group.rst
 .. include:: Nodes/hair.rst
+.. include:: Nodes/tools.rst
 .. include:: Nodes/math.rst
 
 -----
