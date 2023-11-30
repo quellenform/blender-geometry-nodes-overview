@@ -137,7 +137,7 @@ equally available in all versions):
 +--------------------+---------------------+
 |                    | Fraction            |
 +--------------------+---------------------+
-|                    | Modulo              |
+|                    | Modulo *            |
 +--------------------+---------------------+
 |                    | Wrap                |
 +--------------------+---------------------+
@@ -175,3 +175,9 @@ equally available in all versions):
 +--------------------+---------------------+
 |                    | Clamp               |
 +--------------------+---------------------+
+
+.. note::
+   \* In Blender version 4.0, the *Modulo* node has been split into two options:
+
+   - *Truncated Modulo* : Outputs the remainder once the first value is divided by the second value.
+   - *Floored Modulo*: Returns the positive remainder of a division operation.
