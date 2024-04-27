@@ -90,6 +90,8 @@
 ..
    _Color Nodes
 
+.. _black_body-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/color/blackbody.html
+
 .. _color_ramp-2.92: https://docs.blender.org/manual/en/2.92/modeling/geometry_nodes/color/color_ramp.html
 .. _color_ramp-2.93: https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/color/color_ramp.html
 .. _color_ramp-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/color/color_ramp.html
@@ -97,9 +99,10 @@
 .. _color_ramp-3.2: https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/color/color_ramp.html
 .. _color_ramp-3.3: https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/color/color_ramp.html
 .. _color_ramp-3.4: https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/color/color_ramp.html
-.. _color_ramp-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/color/color_ramp.html
-.. _color_ramp-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/color/color_ramp.html
-.. _color_ramp-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/color/color_ramp.html
+.. _color_ramp-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/utilities/color/color_ramp.html
+.. _color_ramp-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/utilities/color/color_ramp.html
+.. _color_ramp-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/color/color_ramp.html
+.. _color_ramp-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/color/color_ramp.html
 
 .. _combine_rgb-2.92: https://docs.blender.org/manual/en/2.92/modeling/geometry_nodes/color/combine_rgb.html
 .. _combine_rgb-2.93: https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/color/combine_rgb.html
@@ -109,28 +112,30 @@
 
 .. _combine_color-3.3: https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/color/combine_color.html
 .. _combine_color-3.4: https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/color/combine_color.html
-.. _combine_color-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/color/combine_color.html
-.. _combine_color-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/color/combine_color.html
-.. _combine_color-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/color/combine_color.html
+.. _combine_color-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/utilities/color/combine_color.html
+.. _combine_color-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/utilities/color/combine_color.html
+.. _combine_color-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/color/combine_color.html
+.. _combine_color-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/color/combine_color.html
 
 .. _mix_rgb-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/color/mix_rgb.html
 .. _mix_rgb-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/color/mix_rgb.html
 .. _mix_rgb-3.2: https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/color/mix_rgb.html
 .. _mix_rgb-3.3: https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/color/mix_rgb.html
-
 .. _mix_rgb-3.4: https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/color/mix_rgb.html
-.. _mix_rgb-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/color/mix_rgb.html
-.. _mix_rgb-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/color/mix_rgb.html
-.. _mix_rgb-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/color/mix_rgb.html
+.. _mix_rgb-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/utilities/color/mix_rgb.html
+.. _mix_rgb-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/utilities/color/mix_rgb.html
+.. _mix_rgb-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/color/mix_rgb.html
+.. _mix_rgb-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/color/mix_rgb.html
 
 .. _rgb_curves-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/color/rgb_curves.html
 .. _rgb_curves-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/color/rgb_curves.html
 .. _rgb_curves-3.2: https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/color/rgb_curves.html
 .. _rgb_curves-3.3: https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/color/rgb_curves.html
 .. _rgb_curves-3.4: https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/color/rgb_curves.html
-.. _rgb_curves-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/color/rgb_curves.html
-.. _rgb_curves-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/color/rgb_curves.html
-.. _rgb_curves-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/color/rgb_curves.html
+.. _rgb_curves-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/utilities/color/rgb_curves.html
+.. _rgb_curves-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/utilities/color/rgb_curves.html
+.. _rgb_curves-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/color/rgb_curves.html
+.. _rgb_curves-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/color/rgb_curves.html
 
 .. _separate_rgb-2.92: https://docs.blender.org/manual/en/2.92/modeling/geometry_nodes/color/separate_rgb.html
 .. _separate_rgb-2.93: https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/color/separate_rgb.html
@@ -140,9 +145,10 @@
 
 .. _separate_color-3.3: https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/color/separate_color.html
 .. _separate_color-3.4: https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/color/separate_color.html
-.. _separate_color-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/color/separate_color.html
-.. _separate_color-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/color/separate_color.html
-.. _separate_color-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/color/separate_color.html
+.. _separate_color-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/utilities/color/separate_color.html
+.. _separate_color-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/utilities/color/separate_color.html
+.. _separate_color-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/color/separate_color.html
+.. _separate_color-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/color/separate_color.html
 
 ..
    _Curve Nodes
@@ -492,49 +498,56 @@
 ..
    _Geometry Nodes
 
+.. _bake-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/operations/bake.html
+
 .. _bounding_box-2.93: https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/geometry/bounding_box.html
 .. _bounding_box-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/geometry/bounding_box.html
 .. _bounding_box-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/geometry/bounding_box.html
 .. _bounding_box-3.2: https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/geometry/bounding_box.html
 .. _bounding_box-3.3: https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/geometry/bounding_box.html
 .. _bounding_box-3.4: https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/geometry/bounding_box.html
-.. _bounding_box-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/bounding_box.html
-.. _bounding_box-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/bounding_box.html
-.. _bounding_box-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/bounding_box.html
+.. _bounding_box-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/operations/bounding_box.html
+.. _bounding_box-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/operations/bounding_box.html
+.. _bounding_box-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/operations/bounding_box.html
+.. _bounding_box-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/operations/bounding_box.html
 
 .. _convex_hull-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/geometry/convex_hull.html
 .. _convex_hull-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/geometry/convex_hull.html
 .. _convex_hull-3.2: https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/geometry/convex_hull.html
 .. _convex_hull-3.3: https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/geometry/convex_hull.html
 .. _convex_hull-3.4: https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/geometry/convex_hull.html
-.. _convex_hull-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/convex_hull.html
-.. _convex_hull-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/convex_hull.html
-.. _convex_hull-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/convex_hull.html
+.. _convex_hull-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/operations/convex_hull.html
+.. _convex_hull-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/operations/convex_hull.html
+.. _convex_hull-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/operations/convex_hull.html
+.. _convex_hull-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/operations/convex_hull.html
 
 .. _delete_geometry-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/geometry/delete_geometry.html
 .. _delete_geometry-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/geometry/delete_geometry.html
 .. _delete_geometry-3.2: https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/geometry/delete_geometry.html
 .. _delete_geometry-3.3: https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/geometry/delete_geometry.html
 .. _delete_geometry-3.4: https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/geometry/delete_geometry.html
-.. _delete_geometry-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/delete_geometry.html
-.. _delete_geometry-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/delete_geometry.html
-.. _delete_geometry-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/delete_geometry.html
+.. _delete_geometry-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/operations/delete_geometry.html
+.. _delete_geometry-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/operations/delete_geometry.html
+.. _delete_geometry-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/operations/delete_geometry.html
+.. _delete_geometry-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/operations/delete_geometry.html
 
 .. _duplicate_elements-3.2: https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/geometry/duplicate_elements.html
 .. _duplicate_elements-3.3: https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/geometry/duplicate_elements.html
 .. _duplicate_elements-3.4: https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/geometry/duplicate_elements.html
-.. _duplicate_elements-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/duplicate_elements.html
-.. _duplicate_elements-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/duplicate_elements.html
-.. _duplicate_elements-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/duplicate_elements.html
+.. _duplicate_elements-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/operations/duplicate_elements.html
+.. _duplicate_elements-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/operations/duplicate_elements.html
+.. _duplicate_elements-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/operations/duplicate_elements.html
+.. _duplicate_elements-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/operations/duplicate_elements.html
 
 .. _geometry_proximity-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/geometry/geometry_proximity.html
 .. _geometry_proximity-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/geometry/geometry_proximity.html
 .. _geometry_proximity-3.2: https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/geometry/geometry_proximity.html
 .. _geometry_proximity-3.3: https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/geometry/geometry_proximity.html
 .. _geometry_proximity-3.4: https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/geometry/geometry_proximity.html
-.. _geometry_proximity-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/geometry_proximity.html
-.. _geometry_proximity-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/geometry_proximity.html
-.. _geometry_proximity-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/geometry_proximity.html
+.. _geometry_proximity-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/sample/geometry_proximity.html
+.. _geometry_proximity-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/sample/geometry_proximity.html
+.. _geometry_proximity-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/sample/geometry_proximity.html
+.. _geometry_proximity-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/sample/geometry_proximity.html
 
 .. _geometry_to_instance-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/geometry/geometry_to_instance.html
 .. _geometry_to_instance-3.2: https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/geometry/geometry_to_instance.html
@@ -543,6 +556,7 @@
 .. _geometry_to_instance-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/geometry_to_instance.html
 .. _geometry_to_instance-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/geometry_to_instance.html
 .. _geometry_to_instance-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/geometry_to_instance.html
+.. _geometry_to_instance-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/geometry_to_instance.html
 
 .. _join_geometry-2.92: https://docs.blender.org/manual/en/2.92/modeling/geometry_nodes/geometry/join_geometry.html
 .. _join_geometry-2.93: https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/geometry/join_geometry.html
@@ -554,51 +568,60 @@
 .. _join_geometry-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/join_geometry.html
 .. _join_geometry-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/join_geometry.html
 .. _join_geometry-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/join_geometry.html
+.. _join_geometry-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/join_geometry.html
 
 .. _merge_by_distance-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/geometry/merge_by_distance.html
 .. _merge_by_distance-3.2: https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/geometry/merge_by_distance.html
 .. _merge_by_distance-3.3: https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/geometry/merge_by_distance.html
 .. _merge_by_distance-3.4: https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/geometry/merge_by_distance.html
-.. _merge_by_distance-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/merge_by_distance.html
-.. _merge_by_distance-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/merge_by_distance.html
-.. _merge_by_distance-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/merge_by_distance.html
+.. _merge_by_distance-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/operations/merge_by_distance.html
+.. _merge_by_distance-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/operations/merge_by_distance.html
+.. _merge_by_distance-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/operations/merge_by_distance.html
+.. _merge_by_distance-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/operations/merge_by_distance.html
 
 .. _raycast-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/geometry/raycast.html
 .. _raycast-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/geometry/raycast.html
 .. _raycast-3.2: https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/geometry/raycast.html
 .. _raycast-3.3: https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/geometry/raycast.html
 .. _raycast-3.4: https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/geometry/raycast.html
-.. _raycast-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/raycast.html
-.. _raycast-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/raycast.html
-.. _raycast-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/raycast.html
+.. _raycast-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/sample/raycast.html
+.. _raycast-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/sample/raycast.html
+.. _raycast-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/sample/raycast.html
+.. _raycast-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/sample/raycast.html
 
 .. _sample_index-3.4: https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/geometry/sample_index.html
-.. _sample_index-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/sample_index.html
-.. _sample_index-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/sample_index.html
-.. _sample_index-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/sample_index.html
+.. _sample_index-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/sample/sample_index.html
+.. _sample_index-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/sample/sample_index.html
+.. _sample_index-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/sample/sample_index.html
+.. _sample_index-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/sample/sample_index.html
 
 .. _sample_nearest-3.4: https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/geometry/sample_nearest.html
-.. _sample_nearest-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/sample_nearest.html
-.. _sample_nearest-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/sample_nearest.html
-.. _sample_nearest-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/sample_nearest.html
+.. _sample_nearest-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/sample/sample_nearest.html
+.. _sample_nearest-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/sample/sample_nearest.html
+.. _sample_nearest-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/sample/sample_nearest.html
+.. _sample_nearest-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/sample/sample_nearest.html
 
 .. _separate_components-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/geometry/separate_components.html
 .. _separate_components-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/geometry/separate_components.html
 .. _separate_components-3.2: https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/geometry/separate_components.html
 .. _separate_components-3.3: https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/geometry/separate_components.html
 .. _separate_components-3.4: https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/geometry/separate_components.html
-.. _separate_components-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/separate_components.html
-.. _separate_components-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/separate_components.html
-.. _separate_components-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/separate_components.html
+.. _separate_components-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/operations/separate_components.html
+.. _separate_components-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/operations/separate_components.html
+.. _separate_components-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/operations/separate_components.html
+.. _separate_components-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/operations/separate_components.html
 
 .. _separate_geometry-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/geometry/separate_geometry.html
 .. _separate_geometry-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/geometry/separate_geometry.html
 .. _separate_geometry-3.2: https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/geometry/separate_geometry.html
 .. _separate_geometry-3.3: https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/geometry/separate_geometry.html
 .. _separate_geometry-3.4: https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/geometry/separate_geometry.html
-.. _separate_geometry-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/separate_geometry.html
-.. _separate_geometry-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/separate_geometry.html
-.. _separate_geometry-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/separate_geometry.html
+.. _separate_geometry-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/operations/separate_geometry.html
+.. _separate_geometry-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/operations/separate_geometry.html
+.. _separate_geometry-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/operations/separate_geometry.html
+.. _separate_geometry-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/operations/separate_geometry.html
+
+.. _split_to_instances-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/operations/split_to_instances.html
 
 .. _transform-2.92: https://docs.blender.org/manual/en/2.92/modeling/geometry_nodes/geometry/transform.html
 .. _transform-2.93: https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/geometry/transform.html
@@ -607,31 +630,34 @@
 .. _transform-3.2: https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/geometry/transform.html
 .. _transform-3.3: https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/geometry/transform.html
 .. _transform-3.4: https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/geometry/transform.html
-.. _transform-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/transform.html
-
+.. _transform_geometry-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/operations/transform_geometry.html
 .. _transform_geometry-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/operations/transform_geometry.html
 .. _transform_geometry-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/operations/transform_geometry.html
+.. _transform_geometry-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/operations/transform_geometry.html
 
 .. _set_id-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/geometry/set_id.html
 .. _set_id-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/geometry/set_id.html
 .. _set_id-3.2: https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/geometry/set_id.html
 .. _set_id-3.3: https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/geometry/set_id.html
 .. _set_id-3.4: https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/geometry/set_id.html
-.. _set_id-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/set_id.html
-.. _set_id-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/set_id.html
-.. _set_id-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/set_id.html
+.. _set_id-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/write/set_id.html
+.. _set_id-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/write/set_id.html
+.. _set_id-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/write/set_id.html
+.. _set_id-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/write/set_id.html
 
 .. _set_position-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/geometry/set_position.html
 .. _set_position-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/geometry/set_position.html
 .. _set_position-3.2: https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/geometry/set_position.html
 .. _set_position-3.3: https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/geometry/set_position.html
 .. _set_position-3.4: https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/geometry/set_position.html
-.. _set_position-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/set_position.html
-.. _set_position-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/set_position.html
-.. _set_position-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/set_position.html
+.. _set_position-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/write/set_position.html
+.. _set_position-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/write/set_position.html
+.. _set_position-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/write/set_position.html
+.. _set_position-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/write/set_position.html
 
 .. _index_of_nearest-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/sample/index_of_nearest.html
 .. _index_of_nearest-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/sample/index_of_nearest.html
+.. _index_of_nearest-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/sample/index_of_nearest.html
 
 ..
    _Input Nodes
@@ -644,6 +670,9 @@
 .. _boolean-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/input/constant/boolean.html
 .. _boolean-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/input/constant/boolean.html
 .. _boolean-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/input/constant/boolean.html
+.. _boolean-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/input/constant/boolean.html
+
+.. _active_camera-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/input/scene/active_camera.html
 
 .. _collection_info-2.93: https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/input/collection_info.html
 .. _collection_info-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/input/collection_info.html
@@ -654,6 +683,7 @@
 .. _collection_info-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/input/scene/collection_info.html
 .. _collection_info-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/input/scene/collection_info.html
 .. _collection_info-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/input/scene/collection_info.html
+.. _collection_info-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/input/scene/collection_info.html
 
 .. _color-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/input/color.html
 .. _color-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/input/color.html
@@ -663,14 +693,17 @@
 .. _color-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/input/constant/color.html
 .. _color-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/input/constant/color.html
 .. _color-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/input/constant/color.html
+.. _color-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/input/constant/color.html
 
 .. _image-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/input/constant/image.html
 .. _image-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/input/constant/image.html
 .. _image-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/input/constant/image.html
+.. _image-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/input/constant/image.html
 
 .. _image_info-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/input/scene/image_info.html
 .. _image_info-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/input/scene/image_info.html
 .. _image_info-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/input/scene/image_info.html
+.. _image_info-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/input/scene/image_info.html
 
 .. _integer-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/input/integer.html
 .. _integer-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/input/integer.html
@@ -680,6 +713,7 @@
 .. _integer-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/input/constant/integer.html
 .. _integer-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/input/constant/integer.html
 .. _integer-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/input/constant/integer.html
+.. _integer-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/input/constant/integer.html
 
 .. _is_viewport-2.93: https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/input/is_viewport.html
 .. _is_viewport-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/input/is_viewport.html
@@ -690,6 +724,7 @@
 .. _is_viewport-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/input/scene/is_viewport.html
 .. _is_viewport-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/input/scene/is_viewport.html
 .. _is_viewport-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/input/scene/is_viewport.html
+.. _is_viewport-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/input/scene/is_viewport.html
 
 .. _material-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/input/material.html
 .. _material-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/input/material.html
@@ -699,6 +734,7 @@
 .. _material-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/input/constant/material.html
 .. _material-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/input/constant/material.html
 .. _material-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/input/constant/material.html
+.. _material-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/input/constant/material.html
 
 .. _object_info-2.92: https://docs.blender.org/manual/en/2.92/modeling/geometry_nodes/input/object_info.html
 .. _object_info-2.93: https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/input/object_info.html
@@ -710,11 +746,13 @@
 .. _object_info-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/input/scene/object_info.html
 .. _object_info-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/input/scene/object_info.html
 .. _object_info-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/input/scene/object_info.html
+.. _object_info-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/input/scene/object_info.html
 
 .. _self_object-3.4: https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/input/self_object.html
 .. _self_object-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/input/scene/self_object.html
 .. _self_object-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/input/scene/self_object.html
 .. _self_object-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/input/scene/self_object.html
+.. _self_object-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/input/scene/self_object.html
 
 .. _scene_time-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/input/scene_time.html
 .. _scene_time-3.2: https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/input/scene_time.html
@@ -723,6 +761,7 @@
 .. _scene_time-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/input/scene/scene_time.html
 .. _scene_time-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/input/scene/scene_time.html
 .. _scene_time-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/input/scene/scene_time.html
+.. _scene_time-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/input/scene/scene_time.html
 
 .. _string-2.93: https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/input/string.html
 .. _string-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/input/string.html
@@ -733,6 +772,7 @@
 .. _string-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/input/constant/string.html
 .. _string-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/input/constant/string.html
 .. _string-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/input/constant/string.html
+.. _string-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/input/constant/string.html
 
 .. _value-2.92: https://docs.blender.org/manual/en/2.92/modeling/geometry_nodes/input/value.html
 .. _value-2.93: https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/input/value.html
@@ -744,6 +784,7 @@
 .. _value-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/input/constant/value.html
 .. _value-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/input/constant/value.html
 .. _value-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/input/constant/value.html
+.. _value-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/input/constant/value.html
 
 .. _vector-2.92: https://docs.blender.org/manual/en/2.92/modeling/geometry_nodes/input/vector.html
 .. _vector-2.93: https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/input/vector.html
@@ -755,6 +796,7 @@
 .. _vector-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/input/constant/vector.html
 .. _vector-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/input/constant/vector.html
 .. _vector-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/input/constant/vector.html
+.. _vector-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/input/constant/vector.html
 
 .. _input_index-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/input/input_index.html
 .. _input_index-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/input/input_index.html
@@ -764,6 +806,7 @@
 .. _input_index-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/read/input_index.html
 .. _input_index-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/read/input_index.html
 .. _input_index-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/read/input_index.html
+.. _input_index-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/read/input_index.html
 
 .. _named_attribute-3.2: https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/input/named_attribute.html
 .. _named_attribute-3.3: https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/input/named_attribute.html
@@ -771,6 +814,7 @@
 .. _named_attribute-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/read/named_attribute.html
 .. _named_attribute-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/read/named_attribute.html
 .. _named_attribute-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/read/named_attribute.html
+.. _named_attribute-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/read/named_attribute.html
 
 .. _normal-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/input/normal.html
 .. _normal-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/input/normal.html
@@ -780,6 +824,7 @@
 .. _normal-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/read/normal.html
 .. _normal-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/read/normal.html
 .. _normal-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/read/normal.html
+.. _normal-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/read/normal.html
 
 .. _position-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/input/position.html
 .. _position-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/input/position.html
@@ -789,6 +834,7 @@
 .. _position-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/read/position.html
 .. _position-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/read/position.html
 .. _position-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/read/position.html
+.. _position-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/read/position.html
 
 .. _radius-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/input/radius.html
 .. _radius-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/input/radius.html
@@ -798,6 +844,7 @@
 .. _radius-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/read/radius.html
 .. _radius-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/read/radius.html
 .. _radius-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/read/radius.html
+.. _radius-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/read/radius.html
 
 .. _id-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/input/id.html
 .. _id-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/input/id.html
@@ -807,6 +854,7 @@
 .. _id-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/geometry/read/id.html
 .. _id-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/geometry/read/id.html
 .. _id-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/geometry/read/id.html
+.. _id-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/geometry/read/id.html
 
 .. _random_float-2.92: https://docs.blender.org/manual/en/2.92/modeling/geometry_nodes/input/random_float.html
 .. _random_float-2.93: https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/input/random_float.html
@@ -1545,6 +1593,7 @@
 .. _accumulate_field-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/utilities/accumulate_field.html
 .. _accumulate_field-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/utilities/accumulate_field.html
 .. _accumulate_field-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/accumulate_field.html
+.. _accumulate_field-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/accumulate_field.html
 
 .. _align_euler_to_vector-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/utilities/align_euler_to_vector.html
 .. _align_euler_to_vector-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/utilities/align_euler_to_vector.html
@@ -1554,6 +1603,7 @@
 .. _align_euler_to_vector-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/utilities/align_euler_to_vector.html
 .. _align_euler_to_vector-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/utilities/align_euler_to_vector.html
 .. _align_euler_to_vector-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/align_euler_to_vector.html
+.. _align_euler_to_vector-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/align_euler_to_vector.html
 
 .. _boolean_math-2.92: https://docs.blender.org/manual/en/2.92/modeling/geometry_nodes/utilities/boolean_math.html
 .. _boolean_math-2.93: https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/utilities/boolean_math.html
@@ -1565,6 +1615,7 @@
 .. _boolean_math-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/utilities/boolean_math.html
 .. _boolean_math-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/utilities/boolean_math.html
 .. _boolean_math-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/boolean_math.html
+.. _boolean_math-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/boolean_math.html
 
 .. _clamp-2.92: https://docs.blender.org/manual/en/2.92/modeling/geometry_nodes/utilities/clamp.html
 .. _clamp-2.93: https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/utilities/clamp.html
@@ -1576,6 +1627,7 @@
 .. _clamp-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/utilities/clamp.html
 .. _clamp-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/utilities/clamp.html
 .. _clamp-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/clamp.html
+.. _clamp-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/clamp.html
 
 .. _float_compare-2.92: https://docs.blender.org/manual/en/2.92/modeling/geometry_nodes/utilities/float_compare.html
 .. _float_compare-2.93: https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/utilities/float_compare.html
@@ -1589,6 +1641,7 @@
 .. _compare-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/utilities/compare.html
 .. _compare-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/utilities/compare.html
 .. _compare-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/compare.html
+.. _compare-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/compare.html
 
 .. _field_at_index-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/utilities/field_at_index.html
 .. _field_at_index-3.2: https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/utilities/field_at_index.html
@@ -1598,6 +1651,7 @@
 .. _evaluate_at_index-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/utilities/field/evaluate_at_index.html
 .. _evaluate_at_index-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/utilities/field/evaluate_at_index.html
 .. _evaluate_at_index-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/field/evaluate_at_index.html
+.. _evaluate_at_index-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/field/evaluate_at_index.html
 
 .. _float_curve-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/utilities/float_curve.html
 .. _float_curve-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/utilities/float_curve.html
@@ -1607,6 +1661,7 @@
 .. _float_curve-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/utilities/float_curve.html
 .. _float_curve-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/utilities/float_curve.html
 .. _float_curve-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/float_curve.html
+.. _float_curve-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/float_curve.html
 
 .. _float_to_integer-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/utilities/float_to_integer.html
 .. _float_to_integer-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/utilities/float_to_integer.html
@@ -1616,6 +1671,7 @@
 .. _float_to_integer-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/utilities/float_to_integer.html
 .. _float_to_integer-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/utilities/float_to_integer.html
 .. _float_to_integer-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/float_to_integer.html
+.. _float_to_integer-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/float_to_integer.html
 
 .. _interpolate_domain-3.3: https://docs.blender.org/manual/en/3.3/modeling/geometry_nodes/utilities/interpolate_domain.html
 .. _interpolate_domain-3.4: https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/utilities/interpolate_domain.html
@@ -1623,6 +1679,7 @@
 .. _evaluate_on_domain-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/utilities/field/evaluate_on_domain.html
 .. _evaluate_on_domain-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/utilities/field/evaluate_on_domain.html
 .. _evaluate_on_domain-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/field/evaluate_on_domain.html
+.. _evaluate_on_domain-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/field/evaluate_on_domain.html
 
 .. _map_range-2.92: https://docs.blender.org/manual/en/2.92/modeling/geometry_nodes/utilities/map_range.html
 .. _map_range-2.93: https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/utilities/map_range.html
@@ -1634,6 +1691,7 @@
 .. _map_range-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/utilities/map_range.html
 .. _map_range-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/utilities/map_range.html
 .. _map_range-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/map_range.html
+.. _map_range-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/map_range.html
 
 .. _math-2.92: https://docs.blender.org/manual/en/2.92/modeling/geometry_nodes/utilities/math.html
 .. _math-2.93: https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/utilities/math.html
@@ -1645,11 +1703,13 @@
 .. _math-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/utilities/math.html
 .. _math-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/utilities/math.html
 .. _math-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/math.html
+.. _math-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/math.html
 
 .. _mix-3.4: https://docs.blender.org/manual/en/3.4/modeling/geometry_nodes/utilities/mix.html
 .. _mix-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/utilities/mix.html
 .. _mix-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/utilities/mix.html
 .. _mix-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/mix.html
+.. _mix-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/mix.html
 
 .. _random_value-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/utilities/random_value.html
 .. _random_value-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/utilities/random_value.html
@@ -1659,6 +1719,7 @@
 .. _random_value-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/utilities/random_value.html
 .. _random_value-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/utilities/random_value.html
 .. _random_value-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/random_value.html
+.. _random_value-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/random_value.html
 
 .. _rotate_euler-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/utilities/rotate_euler.html
 .. _rotate_euler-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/utilities/rotate_euler.html
@@ -1668,20 +1729,36 @@
 .. _rotate_euler-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/utilities/rotate_euler.html
 .. _rotate_euler-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/utilities/rotate_euler.html
 .. _rotate_euler-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/rotate_euler.html
+.. _rotate_euler-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/rotate_euler.html
 
 .. _rotate_vector-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/rotation/rotate_vector.html
+.. _rotate_vector-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/rotation/rotate_vector.html
+
+.. _rotate_rotation-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/rotation/rotate_rotation.html
+
+.. _rotate_rotation-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/rotation/rotate_rotation.html
 
 .. _axis_angle_to_rotation-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/rotation/axis_angle_to_rotation.html
+.. _axis_angle_to_rotation-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/rotation/axis_angle_to_rotation.html
 
 .. _euler_to_rotation-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/rotation/euler_to_rotation.html
+.. _euler_to_rotation-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/rotation/euler_to_rotation.html
 
 .. _rotation_to_euler-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/rotation/rotation_to_euler.html
+.. _rotation_to_euler-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/rotation/rotation_to_euler.html
 
 .. _rotation_to_quaternion-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/rotation/rotation_to_quaternion.html
+.. _rotation_to_quaternion-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/rotation/rotation_to_quaternion.html
 
 .. _quaternion_to_rotation-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/rotation/quaternion_to_rotation.html
+.. _quaternion_to_rotation-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/rotation/quaternion_to_rotation.html
 
 .. _invert_rotation-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/rotation/invert_rotation.html
+.. _invert_rotation-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/rotation/invert_rotation.html
+
+.. _index_switch-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/index_switch.html
+
+.. _menu_switch-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/menu_switch.html
 
 .. _switch-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/utilities/switch.html
 .. _switch-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/utilities/switch.html
@@ -1691,6 +1768,7 @@
 .. _switch-3.5: https://docs.blender.org/manual/en/3.5/modeling/geometry_nodes/utilities/switch.html
 .. _switch-3.6: https://docs.blender.org/manual/en/3.6/modeling/geometry_nodes/utilities/switch.html
 .. _switch-4.0: https://docs.blender.org/manual/en/4.0/modeling/geometry_nodes/utilities/switch.html
+.. _switch-4.1: https://docs.blender.org/manual/en/4.1/modeling/geometry_nodes/utilities/switch.html
 
 ..
    _Vector Nodes
