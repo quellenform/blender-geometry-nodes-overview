@@ -3,10 +3,13 @@
 /.github export-ignore
 /.gitignore export-ignore
 /.vscode export-ignore
-/build/ export-ignore
+/Build/ export-ignore
 
 # Enforce checkout with linux lf consistent over all platforms
+*.css text eol=lf
 *.html text eol=lf
+*.js text eol=lf
+*.json text eol=lf
 *.md text eol=lf
 *.rst text eol=lf
 *.sh text eol=lf
