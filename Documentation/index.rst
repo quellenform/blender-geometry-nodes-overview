@@ -2,7 +2,7 @@
 Geometry Nodes Overview
 #######################
 
-\ :sub:`Version 4.5 (Status as of July 3, 2025)`\
+\ :sub:`Version 4.5 (Status as of July 23, 2025)`\
 
 Here you can find a complete list of *Geometry Nodes* available in different
 `Blender <blender_>`_ versions in tabular form.
@@ -4902,4 +4902,3 @@ not listed here, then it is most likely an individually assigned title…
 .. _smooth_by_angle-4.4: https://docs.blender.org/manual/en/4.4/modeling/geometry_nodes/normals/smooth_by_angle.html
 .. _smooth_by_angle-4.5: https://docs.blender.org/manual/en/4.5/modeling/geometry_nodes/normals/smooth_by_angle.html
 .. _smooth_by_angle-5.0: https://docs.blender.org/manual/en/5.0/modeling/geometry_nodes/normals/smooth_by_angle.html
-
