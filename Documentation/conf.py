@@ -3,11 +3,11 @@
 # -- Project information
 
 project = 'Geometry Nodes Overview'
-copyright = '2023, Stephan Kellermayr'
+copyright = '2025, Stephan Kellermayr'
 author = 'Quellenform'
 
-release = '0.1'
-version = '0.1.0'
+version = '4.5'
+release = '4.5.0.1'
 
 # -- General configuration
 
@@ -30,18 +30,22 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 # https://sphinx-rtd-theme.readthedocs.io/en/stable/configuring.html
-
 html_theme = 'sphinx_rtd_theme'
 html_logo = 'images/logo.png'
 html_favicon = 'images/icon.ico'
 html_theme_options = {
     'analytics_anonymize_ip': True,
-    'display_version': False,
     'logo_only': False,
     'titles_only': False,
     'display_github': 'raw',
-    #'style_nav_header_background': '#343131'
+    'collapse_navigation': False,
+    'sticky_navigation': True,
+    'navigation_depth': 2,
+    'titles_only': True
 }
-
+html_static_path = ['_static']
+html_css_files = [
+    'custom.css'
+]
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
