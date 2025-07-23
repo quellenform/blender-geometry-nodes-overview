@@ -562,6 +562,6 @@ not listed here, then it is most likely an individually assigned title…
 .. _bse-quellenform: https://blender.stackexchange.com/users/145249/quellenform
 .. _bse-273542: https://blender.stackexchange.com/a/273542/145249
 .. _bse-276088: https://blender.stackexchange.com/a/276088/145249
-.. _quellenform: https://quellenform.at/
+.. _quellenform: https://www.quellenform.at/
 .. _quellenform-github: https://github.com/quellenform/blender-geometry-nodes-overview/
 .. _quellenform-sponsoring: https://paypal.me/quellenform

@@ -1448,7 +1448,7 @@ not listed here, then it is most likely an individually assigned title…
 .. _bse-quellenform: https://blender.stackexchange.com/users/145249/quellenform
 .. _bse-273542: https://blender.stackexchange.com/a/273542/145249
 .. _bse-276088: https://blender.stackexchange.com/a/276088/145249
-.. _quellenform: https://quellenform.at/
+.. _quellenform: https://www.quellenform.at/
 .. _quellenform-github: https://github.com/quellenform/blender-geometry-nodes-overview/
 .. _quellenform-sponsoring: https://paypal.me/quellenform
 
@@ -3809,9 +3809,9 @@ not listed here, then it is most likely an individually assigned title…
 .. _checker_texture-4.5: https://docs.blender.org/manual/en/4.5/modeling/geometry_nodes/texture/checker.html
 .. _checker_texture-5.0: https://docs.blender.org/manual/en/5.0/modeling/geometry_nodes/texture/checker.html
 .. _gabor_texture-4.3: https://docs.blender.org/manual/en/4.3/modeling/geometry_nodes/texture/gabor.html
-.. _gabor_texture-4.4: https://docs.blender.org/manual/en/4.4/modeling/geometry_nodes/texture/gabor_texture.html
-.. _gabor_texture-4.5: https://docs.blender.org/manual/en/4.5/modeling/geometry_nodes/texture/gabor_texture.html
-.. _gabor_texture-5.0: https://docs.blender.org/manual/en/5.0/modeling/geometry_nodes/texture/gabor_texture.html
+.. _gabor_texture-4.4: https://docs.blender.org/manual/en/4.4/modeling/geometry_nodes/texture/gabor.html
+.. _gabor_texture-4.5: https://docs.blender.org/manual/en/4.5/modeling/geometry_nodes/texture/gabor.html
+.. _gabor_texture-5.0: https://docs.blender.org/manual/en/5.0/modeling/geometry_nodes/texture/gabor.html
 .. _gradient_texture-3.0: https://docs.blender.org/manual/en/3.0/modeling/geometry_nodes/texture/gradient.html
 .. _gradient_texture-3.1: https://docs.blender.org/manual/en/3.1/modeling/geometry_nodes/texture/gradient.html
 .. _gradient_texture-3.2: https://docs.blender.org/manual/en/3.2/modeling/geometry_nodes/texture/gradient.html
@@ -4902,3 +4902,4 @@ not listed here, then it is most likely an individually assigned title…
 .. _smooth_by_angle-4.4: https://docs.blender.org/manual/en/4.4/modeling/geometry_nodes/normals/smooth_by_angle.html
 .. _smooth_by_angle-4.5: https://docs.blender.org/manual/en/4.5/modeling/geometry_nodes/normals/smooth_by_angle.html
 .. _smooth_by_angle-5.0: https://docs.blender.org/manual/en/5.0/modeling/geometry_nodes/normals/smooth_by_angle.html
+

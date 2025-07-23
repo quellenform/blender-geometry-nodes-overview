@@ -4427,9 +4427,15 @@
 						"4.3": {
 							"url": "texture/gabor.html"
 						},
-						"4.4": {},
-						"4.5": {},
-						"5.0": {}
+						"4.4": {
+							"url": "texture/gabor.html"
+						},
+						"4.5": {
+							"url": "texture/gabor.html"
+						},
+						"5.0": {
+							"url": "texture/gabor.html"
+						}
 					}
 				},
 				"gradient_texture": {
