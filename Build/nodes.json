@@ -68,7 +68,8 @@
 				"4.2",
 				"4.3",
 				"4.4",
-				"4.5"
+				"4.5",
+				"5.0"
 			],
 			"overrideHeader": {
 				"3.5": "3.5+"
@@ -403,7 +404,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"boolean": {
@@ -498,6 +500,13 @@
 								"5.0": {}
 							}
 						},
+						"object": {
+							"versions": {
+								"4.4": {},
+								"4.5": {},
+								"5.0": {}
+							}
+						},
 						"rotation": {
 							"versions": {
 								"4.2": {},
@@ -574,7 +583,8 @@
 					"versions": [
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"dial_gizmo": {
@@ -607,7 +617,8 @@
 					"title": "Input Nodes - Import",
 					"description": "",
 					"versions": [
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"csv": {
@@ -672,7 +683,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"3d_cursor": {
@@ -692,6 +704,12 @@
 								"4.2": {},
 								"4.3": {},
 								"4.4": {},
+								"4.5": {},
+								"5.0": {}
+							}
+						},
+						"camera_info": {
+							"versions": {
 								"4.5": {},
 								"5.0": {}
 							}
@@ -818,9 +836,15 @@
 				"4.2",
 				"4.3",
 				"4.4",
-				"4.5"
+				"4.5",
+				"5.0"
 			],
 			"nodes": {
+				"enable_output": {
+					"versions": {
+						"5.0": {}
+					}
+				},
 				"warning": {
 					"versions": {
 						"4.3": {},
@@ -867,7 +891,8 @@
 				"4.2",
 				"4.3",
 				"4.4",
-				"4.5"
+				"4.5",
+				"5.0"
 			],
 			"nodes": {
 				"geometry_to_instance": {
@@ -906,6 +931,11 @@
 						"4.5": {},
 						"5.0": {}
 					}
+				},
+				"geometry_input": {
+					"versions": {
+						"5.0": {}
+					}
 				}
 			},
 			"sections": {
@@ -925,7 +955,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"id": {
@@ -1129,7 +1160,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"geometry_proximity": {
@@ -1226,7 +1258,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"set_geometry_name": {
@@ -1304,7 +1337,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"bake": {
@@ -1501,6 +1535,40 @@
 								"4.5": {},
 								"5.0": {}
 							}
+						},
+						"displace_geometry": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"smooth_geometry": {
+							"versions": {
+								"5.0": {}
+							}
+						}
+					}
+				},
+				"selection": {
+					"title": "Geometry Nodes - Selection Nodes",
+					"description": "",
+					"versions": [
+						"5.0"
+					],
+					"nodes": {
+						"box_selection": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"normal_selection": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"sphere_selection": {
+							"versions": {
+								"5.0": {}
+							}
 						}
 					}
 				}
@@ -1526,7 +1594,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"curve_handle_positions": {
@@ -1753,7 +1822,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"sample_curve": {
@@ -1792,7 +1862,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"set_curve_normal": {
@@ -1953,7 +2024,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"curve_to_mesh": {
@@ -2154,7 +2226,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"arc": {
@@ -2392,7 +2465,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"curve_of_point": {
@@ -2455,7 +2529,8 @@
 					"title": "Grease Pencil Nodes - Read",
 					"description": "",
 					"versions": [
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"named_layer_selection": {
@@ -2470,7 +2545,8 @@
 					"title": "Grease Pencil Nodes - Write",
 					"description": "",
 					"versions": [
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"set_grease_pencil_color": {
@@ -2497,7 +2573,8 @@
 					"title": "Grease Pencil Nodes - Operations",
 					"description": "",
 					"versions": [
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"grease_pencil_to_curves": {
@@ -2532,7 +2609,8 @@
 				"4.2",
 				"4.3",
 				"4.4",
-				"4.5"
+				"4.5",
+				"5.0"
 			],
 			"nodes": {
 				"instance_on_points": {
@@ -2696,6 +2774,16 @@
 						"4.5": {},
 						"5.0": {}
 					}
+				},
+				"instance_on_elements": {
+					"versions": {
+						"5.0": {}
+					}
+				},
+				"randomize_transforms": {
+					"versions": {
+						"5.0": {}
+					}
 				}
 			}
 		},
@@ -2719,7 +2807,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"edge_angle": {
@@ -2972,6 +3061,36 @@
 								"4.5": {},
 								"5.0": {}
 							}
+						},
+						"edge_length": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"face_corner_angle": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"is_edge_boundary": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"is_edge_loose": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"is_edge_manifold": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"is_uv_split": {
+							"versions": {
+								"5.0": {}
+							}
 						}
 					}
 				},
@@ -2987,7 +3106,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"sample_nearest_surface": {
@@ -3036,7 +3156,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"set_face_set": {
@@ -3094,7 +3215,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"dual_mesh": {
@@ -3179,6 +3301,7 @@
 							}
 						},
 						"mesh_boolean_deprecated": {
+							"label": "Boolean",
 							"versions": {
 								"2.92": {
 									"url": "mesh/boolean.html"
@@ -3225,6 +3348,11 @@
 								"5.0": {}
 							}
 						},
+						"mesh_to_density_grid": {
+							"versions": {
+								"5.0": {}
+							}
+						},
 						"mesh_to_points": {
 							"versions": {
 								"3.0": {},
@@ -3240,6 +3368,11 @@
 								"4.3": {},
 								"4.4": {},
 								"4.5": {},
+								"5.0": {}
+							}
+						},
+						"mesh_to_sdf_grid": {
+							"versions": {
 								"5.0": {}
 							}
 						},
@@ -3385,7 +3518,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"cone": {
@@ -3660,7 +3794,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"corners_of_edge": {
@@ -3801,7 +3936,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"pack_uv_islands": {
@@ -3820,6 +3956,11 @@
 								"4.3": {},
 								"4.4": {},
 								"4.5": {},
+								"5.0": {}
+							}
+						},
+						"uv_tangent": {
+							"versions": {
 								"5.0": {}
 							}
 						},
@@ -3863,7 +4004,8 @@
 				"4.2",
 				"4.3",
 				"4.4",
-				"4.5"
+				"4.5",
+				"5.0"
 			],
 			"nodes": {
 				"distribute_points_in_volume": {
@@ -3877,6 +4019,11 @@
 						"4.3": {},
 						"4.4": {},
 						"4.5": {},
+						"5.0": {}
+					}
+				},
+				"distribute_points_in_grid": {
+					"versions": {
 						"5.0": {}
 					}
 				},
@@ -3921,6 +4068,11 @@
 						"4.3": {},
 						"4.4": {},
 						"4.5": {},
+						"5.0": {}
+					}
+				},
+				"points_to_sdf_grid": {
+					"versions": {
 						"5.0": {}
 					}
 				},
@@ -4096,78 +4248,254 @@
 		"volume": {
 			"title": "Volume Nodes",
 			"description": "",
-			"versions": [
-				"2.93",
-				"3.0",
-				"3.1",
-				"3.2",
-				"3.3",
-				"3.4",
-				"3.5",
-				"3.6",
-				"4.0",
-				"4.1",
-				"4.2",
-				"4.3",
-				"4.4",
-				"4.5"
-			],
-			"nodes": {
-				"volume_to_mesh": {
-					"versions": {
-						"2.93": {},
-						"3.0": {},
-						"3.1": {},
-						"3.2": {},
-						"3.3": {},
-						"3.4": {},
-						"3.5": {},
-						"3.6": {},
-						"4.0": {},
-						"4.1": {
-							"url": "volume/operations/volume_to_mesh.html"
+			"sections": {
+				"read": {
+					"title": "Volume Nodes - Read",
+					"description": "",
+					"versions": [
+						"5.0"
+					],
+					"nodes": {
+						"get_named_grid": {
+							"versions": {
+								"5.0": {}
+							}
 						},
-						"4.2": {
-							"url": "volume/operations/volume_to_mesh.html"
+						"grid_info": {
+							"versions": {
+								"5.0": {}
+							}
 						},
-						"4.3": {
-							"url": "volume/operations/volume_to_mesh.html"
-						},
-						"4.4": {
-							"url": "volume/operations/volume_to_mesh.html"
-						},
-						"4.5": {
-							"url": "volume/operations/volume_to_mesh.html"
-						},
-						"5.0": {
-							"url": "volume/operations/volume_to_mesh.html"
+						"voxel_index": {
+							"versions": {
+								"5.0": {}
+							}
 						}
 					}
 				},
-				"volume_cube": {
-					"versions": {
-						"3.3": {},
-						"3.4": {},
-						"3.5": {},
-						"3.6": {},
-						"4.0": {},
-						"4.1": {
-							"url": "volume/primitives/volume_cube.html"
+				"sample": {
+					"title": "Volume Nodes - Sample",
+					"description": "",
+					"versions": [
+						"5.0"
+					],
+					"nodes": {
+						"sample_grid": {
+							"versions": {
+								"5.0": {}
+							}
 						},
-						"4.2": {
-							"url": "volume/primitives/volume_cube.html"
+						"sample_grid_index": {
+							"versions": {
+								"5.0": {}
+							}
 						},
-						"4.3": {
-							"url": "volume/primitives/volume_cube.html"
+						"advect_grid": {
+							"versions": {
+								"5.0": {}
+							}
 						},
-						"4.4": {
-							"url": "volume/primitives/volume_cube.html"
+						"grid_curl": {
+							"versions": {
+								"5.0": {}
+							}
 						},
-						"4.5": {
-							"url": "volume/primitives/volume_cube.html"
+						"grid_divergence": {
+							"versions": {
+								"5.0": {}
+							}
 						},
-						"5.0": {
-							"url": "volume/primitives/volume_cube.html"
+						"grid_gradient": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"grid_laplacian": {
+							"versions": {
+								"5.0": {}
+							}
+						}
+					}
+				},
+				"write": {
+					"title": "Volume Nodes - Write",
+					"description": "",
+					"versions": [
+						"5.0"
+					],
+					"nodes": {
+						"set_grid_background": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"set_grid_transform": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"store_named_grid": {
+							"versions": {
+								"5.0": {}
+							}
+						}
+					}
+				},
+				"operations": {
+					"title": "Volume Nodes - Operations",
+					"description": "",
+					"versions": [
+						"2.93",
+						"3.0",
+						"3.1",
+						"3.2",
+						"3.3",
+						"3.4",
+						"3.5",
+						"3.6",
+						"4.0",
+						"4.1",
+						"4.2",
+						"4.3",
+						"4.4",
+						"4.5",
+						"5.0"
+					],
+					"nodes": {
+						"volume_to_mesh": {
+							"versions": {
+								"2.93": {
+									"url": "volume/volume_to_mesh.html"
+								},
+								"3.0": {
+									"url": "volume/volume_to_mesh.html"
+								},
+								"3.1": {
+									"url": "volume/volume_to_mesh.html"
+								},
+								"3.2": {
+									"url": "volume/volume_to_mesh.html"
+								},
+								"3.3": {
+									"url": "volume/volume_to_mesh.html"
+								},
+								"3.4": {
+									"url": "volume/volume_to_mesh.html"
+								},
+								"3.5": {
+									"url": "volume/volume_to_mesh.html"
+								},
+								"3.6": {
+									"url": "volume/volume_to_mesh.html"
+								},
+								"4.0": {
+									"url": "volume/volume_to_mesh.html"
+								},
+								"4.1": {},
+								"4.2": {},
+								"4.3": {},
+								"4.4": {},
+								"4.5": {},
+								"5.0": {}
+							}
+						},
+						"grid_to_mesh": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"sdf_grid_boolean": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"sdf_grid_fillet": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"sdf_grid_laplacian": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"sdf_grid_mean": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"sdf_grid_mean_curvature": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"sdf_grid_median": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"sdf_grid_offset": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"field_to_grid": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"prune_grid": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"voxelize_grid": {
+							"versions": {
+								"5.0": {}
+							}
+						}
+					}
+				},
+				"primitives": {
+					"title": "Volume Nodes - Operations",
+					"versions": [
+						"3.3",
+						"3.4",
+						"3.5",
+						"3.6",
+						"4.0",
+						"4.1",
+						"4.2",
+						"4.3",
+						"4.4",
+						"4.5",
+						"5.0"
+					],
+					"nodes": {
+						"volume_cube": {
+							"versions": {
+								"3.3": {
+									"url": "volume/volume_cube.html"
+								},
+								"3.4": {
+									"url": "volume/volume_cube.html"
+								},
+								"3.5": {
+									"url": "volume/volume_cube.html"
+								},
+								"3.6": {
+									"url": "volume/volume_cube.html"
+								},
+								"4.0": {
+									"url": "volume/volume_cube.html"
+								},
+								"4.1": {},
+								"4.2": {},
+								"4.3": {},
+								"4.4": {},
+								"4.5": {},
+								"5.0": {}
+							}
 						}
 					}
 				}
@@ -4183,7 +4511,8 @@
 				"4.2",
 				"4.3",
 				"4.4",
-				"4.5"
+				"4.5",
+				"5.0"
 			],
 			"nodes": {
 				"simulation_zone": {
@@ -4216,7 +4545,8 @@
 				"4.2",
 				"4.3",
 				"4.4",
-				"4.5"
+				"4.5",
+				"5.0"
 			],
 			"nodes": {
 				"replace_material": {
@@ -4234,7 +4564,9 @@
 						"4.3": {},
 						"4.4": {},
 						"4.5": {},
-						"5.0": {}
+						"5.0": {
+							"url": "geometry/material/replace_material.html"
+						}
 					}
 				},
 				"material_index": {
@@ -4252,7 +4584,9 @@
 						"4.3": {},
 						"4.4": {},
 						"4.5": {},
-						"5.0": {}
+						"5.0": {
+							"url": "geometry/material/material_index.html"
+						}
 					}
 				},
 				"material_selection": {
@@ -4270,7 +4604,9 @@
 						"4.3": {},
 						"4.4": {},
 						"4.5": {},
-						"5.0": {}
+						"5.0": {
+							"url": "geometry/material/material_selection.html"
+						}
 					}
 				},
 				"set_material": {
@@ -4288,7 +4624,9 @@
 						"4.3": {},
 						"4.4": {},
 						"4.5": {},
-						"5.0": {}
+						"5.0": {
+							"url": "geometry/material/set_material.html"
+						}
 					}
 				},
 				"set_material_index": {
@@ -4306,7 +4644,9 @@
 						"4.3": {},
 						"4.4": {},
 						"4.5": {},
-						"5.0": {}
+						"5.0": {
+							"url": "geometry/material/set_material_index.html"
+						}
 					}
 				}
 			}
@@ -4327,7 +4667,8 @@
 				"4.2",
 				"4.3",
 				"4.4",
-				"4.5"
+				"4.5",
+				"5.0"
 			],
 			"nodes": {
 				"brick_texture": {
@@ -4826,7 +5167,8 @@
 				"4.2",
 				"4.3",
 				"4.4",
-				"4.5"
+				"4.5",
+				"5.0"
 			],
 			"nodes": {
 				"for_each_geometry_zone": {
@@ -4917,6 +5259,11 @@
 						"4.5": {},
 						"5.0": {}
 					}
+				},
+				"random_rotation": {
+					"versions": {
+						"5.0": {}
+					}
 				}
 			},
 			"sections": {
@@ -4938,7 +5285,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"blackbody": {
@@ -4948,7 +5296,16 @@
 								"4.3": {},
 								"4.4": {},
 								"4.5": {},
-								"5.0": {}
+								"5.0": {
+									"url": "color/blackbody.html"
+								}
+							}
+						},
+						"gamma": {
+							"versions": {
+								"5.0": {
+									"url": "color/gamma.html"
+								}
 							}
 						},
 						"color_ramp": {
@@ -4982,7 +5339,9 @@
 								"4.3": {},
 								"4.4": {},
 								"4.5": {},
-								"5.0": {}
+								"5.0": {
+									"url": "color/color_ramp.html"
+								}
 							}
 						},
 						"combine_rgb": {
@@ -5021,7 +5380,9 @@
 								"4.3": {},
 								"4.4": {},
 								"4.5": {},
-								"5.0": {}
+								"5.0": {
+									"url": "color/combine_color.html"
+								}
 							}
 						},
 						"mix_rgb_deprecated": {
@@ -5056,7 +5417,9 @@
 								"4.3": {},
 								"4.4": {},
 								"4.5": {},
-								"5.0": {}
+								"5.0": {
+									"url": "color/mix_rgb.html"
+								}
 							}
 						},
 						"rgb_curves": {
@@ -5084,7 +5447,9 @@
 								"4.3": {},
 								"4.4": {},
 								"4.5": {},
-								"5.0": {}
+								"5.0": {
+									"url": "color/rgb_curves.html"
+								}
 							}
 						},
 						"separate_rgb": {
@@ -5123,7 +5488,9 @@
 								"4.3": {},
 								"4.4": {},
 								"4.5": {},
-								"5.0": {}
+								"5.0": {
+									"url": "color/separate_color.html"
+								}
 							}
 						}
 					}
@@ -5144,7 +5511,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"format_string": {
@@ -5306,6 +5674,11 @@
 								"5.0": {}
 							}
 						},
+						"string_to_value": {
+							"versions": {
+								"5.0": {}
+							}
+						},
 						"value_to_string": {
 							"versions": {
 								"3.0": {
@@ -5382,9 +5755,15 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
+						"radial_tiling": {
+							"versions": {
+								"5.0": {}
+							}
+						},
 						"vector_curves": {
 							"versions": {
 								"3.0": {
@@ -5513,7 +5892,6 @@
 							}
 						},
 						"mix_vector": {
-							"label": "Mix Vector *",
 							"versions": {
 								"3.4": {
 									"url": "utilities/mix.html"
@@ -5572,6 +5950,69 @@
 								"4.5": {},
 								"5.0": {}
 							}
+						},
+						"combine_cylindrical": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"combine_spherical": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"separate_cylindrical": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"separate_spherical": {
+							"versions": {
+								"5.0": {}
+							}
+						}
+					}
+				},
+				"bundle": {
+					"title": "Utilities Nodes - Bundle",
+					"description": "",
+					"versions": [
+						"5.0"
+					],
+					"nodes": {
+						"combine_bundle": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"separate_bundle": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"join_bundle": {
+							"versions": {
+								"5.0": {}
+							}
+						}
+					}
+				},
+				"closure": {
+					"title": "Utilities Nodes - Closure",
+					"description": "",
+					"versions": [
+						"5.0"
+					],
+					"nodes": {
+						"closure": {
+							"versions": {
+								"5.0": {}
+							}
+						},
+						"evaluate_closure": {
+							"versions": {
+								"5.0": {}
+							}
 						}
 					}
 				},
@@ -5590,7 +6031,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"accumulate_field": {
@@ -5693,7 +6135,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"bit_math": {
@@ -5889,7 +6332,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"combine_matrix": {
@@ -6008,7 +6452,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"align_euler_to_vector": {
@@ -6094,6 +6539,11 @@
 								"4.3": {},
 								"4.4": {},
 								"4.5": {},
+								"5.0": {}
+							}
+						},
+						"mix_rotation": {
+							"versions": {
 								"5.0": {}
 							}
 						},
@@ -6210,7 +6660,8 @@
 				"4.2",
 				"4.3",
 				"4.4",
-				"4.5"
+				"4.5",
+				"5.0"
 			],
 			"nodes": {
 				"group_input": {
@@ -6313,19 +6764,33 @@
 				}
 			}
 		},
+		"generate": {
+			"title": "Generate Nodes",
+			"description": "",
+			"versions": [
+				"5.0"
+			],
+			"nodes": {
+				"array": {
+					"versions": {
+						"5.0": {}
+					}
+				},
+				"curve_to_tube": {
+					"versions": {
+						"5.0": {}
+					}
+				},
+				"scatter_on_surface": {
+					"versions": {
+						"5.0": {}
+					}
+				}
+			}
+		},
 		"hair": {
 			"title": "Hair Nodes",
 			"description": "",
-			"versions": [
-				"3.5",
-				"3.6",
-				"4.0",
-				"4.1",
-				"4.2",
-				"4.3",
-				"4.4",
-				"4.5"
-			],
 			"sections": {
 				"deformation": {
 					"title": "Hair Nodes - Deformation",
@@ -6338,7 +6803,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"blend_hair_curves": {
@@ -6484,7 +6950,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"duplicate_hair_curves": {
@@ -6539,7 +7006,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"braid_hair_curves": {
@@ -6607,7 +7075,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"curve_info": {
@@ -6688,7 +7157,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"attach_hair_curves_to_surface": {
@@ -6743,7 +7213,8 @@
 						"4.2",
 						"4.3",
 						"4.4",
-						"4.5"
+						"4.5",
+						"5.0"
 					],
 					"nodes": {
 						"set_hair_curve_profile": {
@@ -6771,7 +7242,8 @@
 				"4.2",
 				"4.3",
 				"4.4",
-				"4.5"
+				"4.5",
+				"5.0"
 			],
 			"nodes": {
 				"smooth_by_angle": {
