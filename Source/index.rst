@@ -17,7 +17,7 @@ Here you can find a complete list of *Geometry Nodes* available in different
 
 The grouping of nodes and their assignment to submenus has changed several
 times from version to version and has only stabilized somewhat with version 3.5.
-The grouping of nodes used here therefore follows the current structure in Blender 4.5.
+The grouping of nodes used here therefore follows the current structure in Blender 4.5 LTS.
 
 ###############
 Attribute Nodes
@@ -121,6 +121,12 @@ Geometry Nodes - Operations
 ***************************
 
 [table:geometry/operations]
+
+********************************
+Geometry Nodes - Selection Nodes
+********************************
+
+[table:geometry/selection]
 
 ###########
 Curve Nodes
@@ -262,7 +268,35 @@ Although it has the same name, it performs a different function!
 Volume Nodes
 ############
 
-[table:volume]
+*****************
+Volume Nodes - Read
+*****************
+
+[table:volume/read]
+
+*******************
+Volume Nodes - Sample
+*******************
+
+[table:volume/sample]
+
+******************
+Volume Nodes - Write
+******************
+
+[table:volume/write]
+
+***********************
+Volume Nodes - Operations
+***********************
+
+[table:volume/operations]
+
+***********************
+Volume Nodes - Primitives
+***********************
+
+[table:volume/primitives]
 
 ################
 Simulation Nodes
@@ -312,6 +346,18 @@ Utilities Nodes - Vector
 
 [table:utilities/vector]
 
+************************
+Utilities Nodes - Bundle
+************************
+
+[table:utilities/bundle]
+
+************************
+Utilities Nodes - Closure
+************************
+
+[table:utilities/closure]
+
 ***********************
 Utilities Nodes - Field
 ***********************
@@ -343,6 +389,12 @@ Group Nodes
 ###########
 
 [table:group]
+
+##############
+Generate Nodes
+##############
+
+[table:generate]
 
 ##########
 Hair Nodes

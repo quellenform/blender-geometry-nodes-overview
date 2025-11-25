@@ -8,7 +8,7 @@ Here you can find a complete (compact) list of *Geometry Nodes* available in dif
 >
 > Therefore I have additionally published this list in HTML format, which contains further links directly to the respective documentation of the individual nodes:<br>[Geometry Nodes Overview][geometry-nodes-overview]
 
-The grouping of nodes and their assignment to submenus has changed several times from version to version and has only stabilized somewhat with version 3.5. The grouping of nodes used here therefore follows the current structure in Blender 4.5.
+The grouping of nodes and their assignment to submenus has changed several times from version to version and has only stabilized somewhat with version 3.5. The grouping of nodes used here therefore follows the current structure in Blender 4.5 LTS.
 
 ## Attribute Nodes
 
@@ -75,6 +75,10 @@ Some nodes were completely replaced by other nodes after version *2.93* due to t
 ### Geometry Nodes - Operations
 
 [table:geometry/operations]
+
+### Geometry Nodes - Selection Nodes
+
+[table:geometry/selection]
 
 ## Curve Nodes
 
@@ -167,7 +171,25 @@ Some nodes were completely replaced by other nodes after version *2.93*:
 
 ## Volume Nodes
 
-[table:volume]
+### Volume Nodes - Read
+
+[table:volume/read]
+
+### Volume Nodes - Sample
+
+[table:volume/sample]
+
+### Volume Nodes - Write
+
+[table:volume/write]
+
+### Volume Nodes - Operations
+
+[table:volume/operations]
+
+### Volume Nodes - Primitives
+
+[table:volume/primitives]
 
 ## Simulation Nodes
 
@@ -202,6 +224,14 @@ Some nodes were completely replaced by other nodes after version *2.93*:
 
 [table:utilities/vector]
 
+### Utilities Nodes - Bundle
+
+[table:utilities/bundle]
+
+### Utilities Nodes - Closure
+
+[table:utilities/closure]
+
 ### Utilities Nodes - Field
 
 [table:utilities/field]
@@ -223,6 +253,10 @@ Some nodes were completely replaced by other nodes after version *2.93*:
 ## Group Nodes
 
 [table:group]
+
+## Generate Nodes
+
+[table:generate]
 
 ## Hair Nodes
 
