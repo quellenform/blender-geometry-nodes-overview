@@ -75,9 +75,6 @@
 				"5.0",
 				"5.1"
 			],
-			"overrideHeader": {
-				"3.5": "3.5+"
-			},
 			"nodes": {
 				"attribute_statistic": {
 					"versions": {
