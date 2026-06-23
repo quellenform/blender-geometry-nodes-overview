@@ -6,8 +6,8 @@ project = 'Geometry Nodes Overview'
 copyright = '2025, Stephan Kellermayr'
 author = 'Quellenform'
 
-version = '4.5'
-release = '4.5.0.1'
+version = '5.1'
+release = '5.1.2.0'
 
 # -- General configuration
 
@@ -17,7 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'sphinx_rtd_theme',
+    'sphinx_rtd_theme'
 ]
 
 intersphinx_mapping = {
