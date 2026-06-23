@@ -594,7 +594,7 @@ module.exports = function (grunt) {
             w = w
                 .split(' ')
                 // uppercase specific words
-                .map(s => s.match(/\b(Rgb|Xyz|Id|3d|Csv|Ply|Obj|Stl|Vdb|Uv)\b/) && s.trim().toUpperCase() || s)
+                .map(s => s.match(/\b(Rgb|Xyz|Id|3d|Csv|Ply|Obj|Stl|Vdb|Uv|Sdf)\b/) && s.trim().toUpperCase() || s)
                 // lowercase specific words
                 .map(s => s.match(/\b(On|Of|In|By|To|Is|At)\b/) && s.trim().toLowerCase() || s);
             return w;
