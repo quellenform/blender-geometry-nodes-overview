@@ -6401,6 +6401,16 @@
 								"5.1": {}
 							}
 						},
+						"get_bundle_item": {
+							"versions": {
+								"5.1": {}
+							}
+						},
+						"store_bundle_item": {
+							"versions": {
+								"5.1": {}
+							}
+						},
 						"join_bundle": {
 							"versions": {
 								"5.0": {},
@@ -6817,6 +6827,11 @@
 								"4.4": {},
 								"4.5": {},
 								"5.0": {},
+								"5.1": {}
+							}
+						},
+						"matrix_svd": {
+							"versions": {
 								"5.1": {}
 							}
 						},
