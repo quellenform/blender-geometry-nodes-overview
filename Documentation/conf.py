@@ -7,7 +7,7 @@ copyright = '2025, Stephan Kellermayr'
 author = 'Quellenform'
 
 version = '5.1'
-release = '5.1.2.0'
+release = '5.1.2.1'
 
 # -- General configuration
 
