@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Geometry Nodes Overview'
-copyright = '2025, Stephan Kellermayr'
+copyright = '2026, Stephan Kellermayr'
 author = 'Quellenform'
 
 version = '5.1'
