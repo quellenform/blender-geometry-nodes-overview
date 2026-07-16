@@ -6,8 +6,8 @@ project = 'Geometry Nodes Overview'
 copyright = '2026, Stephan Kellermayr'
 author = 'Quellenform'
 
-version = '5.1'
-release = '5.1.2.1'
+version = '5.2'
+release = '5.2.0.0'
 
 # -- General configuration
 
