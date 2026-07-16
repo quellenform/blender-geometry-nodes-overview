@@ -72,6 +72,10 @@ Some nodes were completely replaced by other nodes after version *2.93* due to t
 
 [table:geometry/write]
 
+### Geometry Nodes - Material
+
+[table:geometry/material]
+
 ### Geometry Nodes - Operations
 
 [table:geometry/operations]
@@ -195,10 +199,6 @@ Some nodes were completely replaced by other nodes after version *2.93*:
 
 [table:simulation]
 
-## Material Nodes
-
-[table:material]
-
 ## Texture Nodes
 
 [table:texture]
@@ -236,6 +236,10 @@ Some nodes were completely replaced by other nodes after version *2.93*:
 
 [table:utilities/field]
 
+### Utilities Nodes - List
+
+[table:utilities/list]
+
 ### Utilities Nodes - Math
 
 [table:utilities/math]
@@ -249,6 +253,10 @@ Some nodes were completely replaced by other nodes after version *2.93*:
 [table:utilities/rotation]
 
 <sub>¹ The nodes *Rotate Euler* and *Align Euler to Vector* are still included in version 4.2+, but are marked as "Deprecated" and should no longer be used.</sub>
+
+### Utilities Nodes - Sound
+
+[table:utilities/sound]
 
 ## Group Nodes
 

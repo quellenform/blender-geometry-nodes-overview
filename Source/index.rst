@@ -116,6 +116,12 @@ Geometry Nodes - Write
 
 [table:geometry/write]
 
+*************************
+Geometry Nodes - Material
+*************************
+
+[table:geometry/material]
+
 ***************************
 Geometry Nodes - Operations
 ***************************
@@ -304,12 +310,6 @@ Simulation Nodes
 
 [table:simulation]
 
-##############
-Material Nodes
-##############
-
-[table:material]
-
 #############
 Texture Nodes
 #############
@@ -352,9 +352,9 @@ Utilities Nodes - Bundle
 
 [table:utilities/bundle]
 
-************************
+*************************
 Utilities Nodes - Closure
-************************
+*************************
 
 [table:utilities/closure]
 
@@ -363,6 +363,12 @@ Utilities Nodes - Field
 ***********************
 
 [table:utilities/field]
+
+***********************
+Utilities Nodes - List
+***********************
+
+[table:utilities/list]
 
 **********************
 Utilities Nodes - Math
@@ -383,6 +389,12 @@ Utilities Nodes - Rotation
 [table:utilities/rotation]
 
 ¹ The nodes `Rotate Euler` and `Align Euler to Vector` are still included in version *4.2+*, but are marked as "Deprecated" and should no longer be used.
+
+***********************
+Utilities Nodes - Sound
+***********************
+
+[table:utilities/sound]
 
 ###########
 Group Nodes
