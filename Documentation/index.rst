@@ -17,7 +17,7 @@ Here you can find a complete list of *Geometry Nodes* available in different
 
 The grouping of nodes and their assignment to submenus has changed several
 times from version to version and has only stabilized somewhat with version 3.5.
-The grouping of nodes used here therefore follows the current structure in Blender 4.5 LTS.
+The grouping of nodes used here therefore follows the current structure in Blender 5.2 LTS.
 
 ###############
 Attribute Nodes
@@ -6122,4 +6122,3 @@ not listed here, then it is most likely an individually assigned title…
 .. _smooth_by_angle-5.0: https://docs.blender.org/manual/en/5.0/modeling/geometry_nodes/normals/smooth_by_angle.html
 .. _smooth_by_angle-5.1: https://docs.blender.org/manual/en/5.1/modeling/geometry_nodes/normals/smooth_by_angle.html
 .. _smooth_by_angle-5.2: https://docs.blender.org/manual/en/5.2/modeling/geometry_nodes/normals/smooth_by_angle.html
-
